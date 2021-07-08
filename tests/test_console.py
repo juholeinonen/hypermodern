@@ -1,8 +1,9 @@
 # tests/test_console.py
 import click.testing
-import pytest
-import requests
 
+import pytest
+
+import requests
 
 from hypermodern import console
 
